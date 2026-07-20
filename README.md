@@ -335,6 +335,18 @@ This research was conducted as a **computational feasibility study only**.
 
 ---
 
+Using the Demo
+Visit https://emosense.replit.app/ to:
+
+Upload an image or use your webcam
+
+See real-time emotion prediction
+
+View Grad-CAM heatmaps
+
+Read the natural language explanation
+
+
 ## 📞 Contact
 
 **Author:** Okechukwu Sylvester Nicholas
